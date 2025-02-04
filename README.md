@@ -1,2 +1,2 @@
 # estudos-java
-Estudos da Linguagem Java 
+Meus estudos em Java através do SENAI-LAURO DE FREITAS
