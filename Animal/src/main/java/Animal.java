@@ -1,6 +1,6 @@
 public class Animal {
-    private String nome;
-    private String raca;
+    protected String nome;
+    protected String raca;
 
     public Animal(String nome, String raca){
         this.nome = nome;
