@@ -1,0 +1,3 @@
+3. Crie uma classe "Livro" com atributos título, autor e número de páginas. 
+Implemente métodos para imprimir esses atributos
+e verificar se o livro está disponível para empréstimo.
