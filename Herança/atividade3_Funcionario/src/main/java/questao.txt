@@ -1,0 +1,3 @@
+3. Desenvolva uma classe "Funcionário" com atributos nome, cargo e salário.
+ Implemente métodos para imprimir esses atributos e calcular o salário líquido.
+ Crie subclasses para "Gerente", "Vendedor" e "Estagiário".
