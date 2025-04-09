@@ -1,0 +1,4 @@
+Crie uma classe Computador que seja composta por um Processador,
+uma Memoria e um DiscoRigido.
+Cada Processador tem uma velocidade,
+cada Memoria tem uma capacidade e cada DiscoRigido tem uma capacidade.
